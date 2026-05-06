@@ -1,3 +1,10 @@
+# 1.0.0 (2026-05-06)
+
+
+### Bug Fixes
+
+* rl ([08e4327](https://github.com/KhanhTQ-Organization/com.ktgame.localizations.tmpro-font-generator/commit/08e43279685d12217b7e2a76da5602b2fa231078))
+
 ## [1.0.4](https://github.com/KhanhTQ-hub/com.localizations.tmpro-font-generator/compare/v1.0.3...v1.0.4) (2025-07-04)
 
 
