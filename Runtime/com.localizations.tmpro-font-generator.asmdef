@@ -1,0 +1,14 @@
+{
+    "name": "com.localizations.tmpro-font-generator",
+    "rootNamespace": "com.localizations.tmpro_font_generator",
+    "references": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
