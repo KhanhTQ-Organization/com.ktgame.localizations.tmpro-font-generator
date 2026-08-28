@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/KhanhTQ-Organization/com.ktgame.localizations.tmpro-font-generator/compare/v1.0.0...v1.0.1) (2026-08-28)
+
+
+### Bug Fixes
+
+* update ([078dd01](https://github.com/KhanhTQ-Organization/com.ktgame.localizations.tmpro-font-generator/commit/078dd01096c04561624649f7cf05d2a32604549e))
+
 # 1.0.0 (2026-05-06)
 
 
